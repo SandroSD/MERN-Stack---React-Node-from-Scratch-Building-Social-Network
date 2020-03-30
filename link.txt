@@ -1,1 +1,6 @@
 https://www.udemy.com/course/node-react/learn/lecture/13325954#content
+
+Continuar desde el video 31
+
+
+correr la api: npm run dev
