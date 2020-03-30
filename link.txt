@@ -1,6 +1,9 @@
 https://www.udemy.com/course/node-react/learn/lecture/13325954#content
 
-Continuar desde el video 31
+Continuar desde el video 38
 
 
 correr la api: npm run dev
+
+----- o -----
+Express validator (video 34): hay una versión mas vieja pero se adaptó a la versión en la que está en el video.
